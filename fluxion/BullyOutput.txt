@@ -1,0 +1,20 @@
+[!] Bully v1.0-22 - WPS vulnerability assessment utility
+[+] Switching interface 'wlan0' to channel '6'
+[!] Using '02:22:88:29:ec:6f' for the source MAC address
+[+] Datalink type set to '127', radiotap headers present
+[+] Scanning for beacon from '58:1d:91:89:a6:11' on channel '6'
+[+] Got beacon for 'AJCE MD-1' (58:1d:91:89:a6:11)
+[!] Creating new randomized pin file '/root/.bully/pins'
+[+] Index of starting pin number is '0000000'
+[+] Last State = 'NoAssoc'   Next pin '10237205'
+[!] Received M2D or out of sequence WPS Message
+[+] Rx(M2D/M3) = 'WPSFail'   Next pin '10237205'
+[!] Unexpected packet received when waiting for EAP Req Id
+[!] >000024002f4000a02008000000000000fd933d050000000010028509a000c0000000c00008023a0102228829ec6f581d9189a611581d9189a61150d3aaaa03000000888e0200008a01a5008afe00372a000000010400104a0001101022000107103900100a9b94aa55ab2fedfc4debfc66fba9a01014002039a5ae9cef365b72eeccb8206fe51a31eedd3c479e801ba4e42551100566775b101500200e299d7d849e46a6024eacb3d85309516c005c722354bec7fb3e13de9933e3271049000600372a000120100500088c5a98f17f0ba010242b27d1<
+[+] Rx(  ID  ) = 'EAPFail'   Next pin '10237205'
+[+] Rx(  M5  ) = 'Pin1Bad'   Next pin '87127201'
+[+] Rx(  M5  ) = 'Pin1Bad'   Next pin '11057208'
+[!] Received M2D or out of sequence WPS Message
+[+] Rx(  M5  ) = 'WPSFail'   Next pin '11057208'
+[+] Rx(M2D/M3) = 'WPSFail'   Next pin '11057208'
+[!] WPS lockout reported, sleeping for 43 seconds ...
